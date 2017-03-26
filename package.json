@@ -1,0 +1,11 @@
+{
+  "name": "project0",
+  "version": "1.0.0",
+  "description": "This project is part of the Full Stack Web Developer nanodegree from udacity. The project utilizes [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
